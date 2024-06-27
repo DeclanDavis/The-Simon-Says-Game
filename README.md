@@ -1,4 +1,6 @@
 # **The Simon Says Game**
+
+![ssgScreengrab](https://github.com/DeclanDavis/TheSimonSaysGame/blob/main/code/images/ssg.png?raw=true)
 ## **Overview**
 
 The Simon Says Game is an app developed as part of my module, **Web Information Processing**, in Maynooth University, National University of Ireland Maynooth. 
@@ -61,6 +63,7 @@ you need to provide all sources. Your app only needs to run on a desktop browser
 ## **Browser and OS:**
 
 Browser: Google Chrome Version 122.0.6261.112 (Official Build) (64-bit)
+
 Operating System: Windows
 
 
@@ -68,19 +71,19 @@ Operating System: Windows
 
 For this project I referenced:
 
-Youtube tutorials: 
+**Youtube tutorials:**
 
-Simon Game JavaScript Tutorial for Beginners by freeCodeCamp.org - [https://www.youtube.com/watch?v=n_ec3eowFLQ] 
+*Simon Game JavaScript Tutorial for Beginners* by freeCodeCamp.org - [https://www.youtube.com/watch?v=n_ec3eowFLQ] 
 
-CSS Positioning: Position absolute and relative explained by Kevin Powell - [https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=345s]
+*CSS Positioning: Position absolute and relative explained* by Kevin Powell - [https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=345s]
 
-Learn CSS Positioning Quickly with A Real World Example by Slaying The Dragon - [https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=149s]
+*Learn CSS Positioning Quickly with A Real World Example* by Slaying The Dragon - [https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=149s]
 
-Websites:
+**Websites:**
 
-W3 Schools: [https://www.w3schools.com/js/js_timing.asp] 
+*W3 Schools*: [https://www.w3schools.com/js/js_timing.asp] 
 
-GeeksforGeeks: [https://www.geeksforgeeks.org/create-a-simon-game-using-html-css-javascript/]
+*GeeksforGeeks*: [https://www.geeksforgeeks.org/create-a-simon-game-using-html-css-javascript/]
 
 
 
