@@ -4,7 +4,7 @@
 The Simon Says Game is an app developed as part of my module, **Web Information Processing**, in Maynooth University, National University of Ireland Maynooth. 
 This module is worth 5 credits. 
 
-Programmed using *JavaScript React, HTML* and  *CSS*.
+Programmed using *JavaScript, HTML* and  *CSS*.
 
 This readme will provide an overview of the app. 
 
@@ -56,9 +56,7 @@ may not use any other font as part of the display.
 
 3. You may not use a CSS framework, such as Bootstrap, for this assignment. You may, if you wish,
 use the jQuery Javascript framework. If you use TypeScript, or similar, and transpire to JavaScript,
-you need to provide all sources. Your app only needs to run on a desktop browser such as Chrome
-- you do not need to ensure it works on every browser (mobile browsers, for example).
-
+you need to provide all sources. Your app only needs to run on a desktop browser such as Chrome.
 
 ## **Browser and OS:**
 
@@ -71,13 +69,18 @@ Operating System: Windows
 For this project I referenced:
 
 Youtube tutorials: 
-https://www.youtube.com/watch?v=n_ec3eowFLQ - Simon Game JavaScript Tutorial for Beginners by freeCodeCamp.org
-https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=345s - CSS Positioning: Position absolute and relative explained by Kevin Powell
-https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=149s - Learn CSS Positioning Quickly with A Real World Example by Slaying The Dragon
+
+Simon Game JavaScript Tutorial for Beginners by freeCodeCamp.org - [https://www.youtube.com/watch?v=n_ec3eowFLQ] 
+
+CSS Positioning: Position absolute and relative explained by Kevin Powell - [https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=345s]
+
+Learn CSS Positioning Quickly with A Real World Example by Slaying The Dragon - [https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=149s]
 
 Websites:
-W3 Schools: https://www.w3schools.com/js/js_timing.asp 
-GeeksforGeeks: https://www.geeksforgeeks.org/create-a-simon-game-using-html-css-javascript/
+
+W3 Schools: [https://www.w3schools.com/js/js_timing.asp] 
+
+GeeksforGeeks: [https://www.geeksforgeeks.org/create-a-simon-game-using-html-css-javascript/]
 
 
 
