@@ -1,0 +1,129 @@
+
+body{
+    background: white;
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.box-game-container {
+    display: flex;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.medSizeBlackCircle {
+    display: flex;
+    height: 240px;
+    width:240px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 0;
+}
+
+.greenCircle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 235px;
+    width: 235px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    position: absolute;
+    border: 10px solid black;
+}
+
+.redCircle {
+    height: 235px;
+    width: 235px;
+    background-color: darkred;
+    border-radius: 50%;
+    position: absolute;
+    border: 10px solid black;
+}
+
+.blueCircle {
+    height: 235px;
+    width: 235px;
+    background-color: darkblue;
+    border-radius: 50%;
+    position: absolute;
+    border: 10px solid black;
+}
+
+.yellowCircle {
+    height: 235px;
+    width: 235px;
+    background-color:goldenrod;
+    border-radius: 50%;
+    position: absolute;
+    border: 10px solid black;
+}
+
+.bigSizeBlackCircle {
+    height: 450px;
+    width: 450px;
+    background-color: black;
+    background-image: radial-gradient(circle,rgb(35, 32, 30) 5%,  black 60%);
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+}
+
+#gameStatus {
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    bottom: 40%;
+}
+
+.top { top: 0; }
+.right { right: 0; }
+.bottom{ bottom: 0; }
+.left { left: 0; }
+
+#currentCount {
+    display:flex;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 45px;
+    font-family: orbitron;
+    border: 4px solid black;
+    width: 95px;
+}
+
+#highestCount {
+    display: flex;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 45px;
+    font-family: orbitron;
+    border: 4px solid black;
+    width: 95px;
+}
+
+.button1 {
+    display: flex;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 45px;
+    font-family: orbitron;
+    border: 4px solid black;
+}
+
+.button1:hover {
+    background-color: rgb(184, 184, 184);
+    color: rgb(0, 0, 0);
+}
